@@ -1,0 +1,4 @@
+# A GT4500 torpedóival lehet egymás után tüzellni
+GT4500,1,0,1,0
+TORPEDO,SINGLE  
+TORPEDO,SINGLE  
