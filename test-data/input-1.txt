@@ -1,0 +1,3 @@
+# A GT4500 torpedói kifogytak és rendesen kezeljük
+GT4500,0,0,0,0
+TORPEDO,SINGLE  
